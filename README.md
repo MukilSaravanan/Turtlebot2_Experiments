@@ -50,7 +50,7 @@
 
 
 <p align="center">
-  <img width="1050" height="350" src="resources/img/turtlebot2_specs.png" title="Top, Side and Front view">
+  <img width="1050" height="300" src="resources/img/turtlebot2_specs.png" title="Top, Side and Front view">
 </p>
 
 
