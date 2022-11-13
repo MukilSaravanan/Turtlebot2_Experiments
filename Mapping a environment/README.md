@@ -38,7 +38,7 @@ roslaunch turtlebot_teleop keyboard_teleop.launch
 NOTE: The terminal with teleop launching has to be active all the time otherwise you won’t be able to operate the TurtleBot.
 
 <p align="center">
-<img width="800" alt="mapping1" src="https://user-images.githubusercontent.com/44544565/201525126-76d40dc1-cdc7-4d6e-9f57-a8943de7d14c.png">
+<img width="750" alt="mapping1" src="https://user-images.githubusercontent.com/44544565/201525126-76d40dc1-cdc7-4d6e-9f57-a8943de7d14c.png">
 </p>
 
 ### 9. Save a map when the picture is good enough.
@@ -70,6 +70,9 @@ roslaunch turtlebot_rviz_launchers view_navigation.launch
 ```
 
 ### 4. If you see a picture like this then creating the map has been realized successfully
+<p align="center">
+<img width="750" alt="Screenshot 2022-11-13 at 7 25 19 PM" src="https://user-images.githubusercontent.com/44544565/201525520-9e927a50-103f-4e0f-a3a0-ed26137f13d1.png">
+</p>
 
 ### 5. Interrupt processes and close the terminals
 -------------
