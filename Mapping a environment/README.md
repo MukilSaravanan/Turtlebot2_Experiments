@@ -38,9 +38,8 @@ roslaunch turtlebot_teleop keyboard_teleop.launch
 NOTE: The terminal with teleop launching has to be active all the time otherwise you won’t be able to operate the TurtleBot.
 
 <p align="center">
-  <img width="600" height="400" src="resources/mapping_env/mapping1.png">
+<img width="800" alt="mapping1" src="https://user-images.githubusercontent.com/44544565/201525126-76d40dc1-cdc7-4d6e-9f57-a8943de7d14c.png">
 </p>
-
 
 ### 9. Save a map when the picture is good enough.
 
