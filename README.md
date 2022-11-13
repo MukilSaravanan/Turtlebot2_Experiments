@@ -59,10 +59,10 @@
 > ### Low Cost
 Turtlebot2 was built for the cost-conscious needs of education and early-stage development. It uses off-the-shelf consumer electronics like the Orbbec Astra Pro sensor, a standard netbook and a robot base built from a repurposed robot vacuum cleaner to keep costs low. Turtlebot2 is the most affordable advanced ROS robot on the market.
  
-> ### b) Built for ROS
+> ### Built for ROS
 Turtlebot was designed in collaboration with the original makers of ROS, Willow Garage. Since then, ROS has quickly become the go-to software platform for roboticists around the world. Not only will the TurtleBot seamlessly integrate with your existing ROS-driven robots, it also offers an affordable platform to get started learning with ROS.
  
-> ### c) Rolling Start
+> ### Rolling Start
 ROS comes pre-installed and configured on the netbook. Turtlebot comes fully assembled, integrated and tested. It is ready for basic operation right out of the box. Power it on and enter commands. If this is your first time using ROS, Turtlebot is the best place to start.
 
 ### Applications
