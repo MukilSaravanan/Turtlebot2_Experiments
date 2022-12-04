@@ -28,8 +28,8 @@
 
 ## Experiments
   - [Teleoperation](./Teleoperation)
-  - [Environement mapping](./Mapping%20a%20environment)
   - [Velocity scaling](./Velocity%20scaling#readme)
+  - [Environement mapping](./Mapping%20a%20environment)
   - [Navigation](./Navigation#readme)
   - [Moving Forward](./Moving%20Forward#readme)
   - [Obstacle Avoidance](.Obstacle%20Avoidance#readme)
