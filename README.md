@@ -1,9 +1,10 @@
 # [Turtlebot 2](https://www.turtlebot.com/turtlebot2/)
 <p align="center">
   <img width="350" src="https://user-images.githubusercontent.com/44544565/201526868-b8ce8391-5ef5-4441-a118-1c8054eb4c65.jpg" title="Turtlebot 2">
+  <h3 align="center"> Turtlebot 2 </h3>
 </p>
 
-## [Experimentation video]
+## Experimentation video
 <div align="center">
   <a href="resources/img/turtlebot2_specs.png"> <img src="" alt="Experimentation video"></a>
 </div>
@@ -19,13 +20,18 @@
 
 ## ROS Noetic Installation
  - [ROS wiki](http://wiki.ros.org/noetic/Installation/Ubuntu)
- - [Testing ROS installation](./testing%20ROS%installation)
+ - [Testing ROS installation](./Testing%20ROS%20installation)
+
+## Astra Camera package Installation
+- [Astra installation](./Astra%20installation/Readme.md)
 
 ## Experiments
   - [Teleoperation](./Teleoperation)
   - [Environement mapping](./Mapping%20a%20environment)
   - [Velocity scaling](./Velocity%20scaling)
-  
+  - [Moving forward](./Moving%20forward/Readme.md)
+  - [Navigation](./Navigation/Readme.md)
+  - [Obstace avoidance](./Obstacle%20avoidance/Readme.md)  
 ## Overview
 - TurtleBot 2 has been the world’s most popular low cost, open source robot for education and research
 - This second generation personal robot is equipped with a powerful Kobuki robot base, a dual-core netbook, Orbbec Astra Pro Sensor and a gyroscope. 
@@ -34,10 +40,10 @@
 
 ## Specifications
 
-|  Size  |  Weight  |
-|  ---------- |  -------------  |
-|  Dimensions  |  354x354x420 mm  |
-|  Weight  |  6.3 kg  |
+|  Size         |  Weight  |
+|  ----------   |  -------------  |
+|  Dimensions   |  354x354x420 mm  |
+|  Weight       |  6.3 kg  |
 |  Max Payload  |  5 kg  |
 
 
@@ -50,6 +56,7 @@
 
 <p align="center">
   <img width="1050" height="300" src="resources/img/turtlebot2_specs.png" title="Top, Side and Front view">
+  <h3 align="center">Dimensions of Turtlebot 2 in Top, Side and Front views </h3>
 </p>
 
 
