@@ -3,13 +3,7 @@
 - Make sure TurtleBot’s Kobuki base is turned on (on/off switch is on the side).
 
 <p align="center">
-<<<<<<< Updated upstream
 <img width ="450" alt="screenshot" src="https://user-images.githubusercontent.com/44544565/201526105-3ec7328c-13ba-4760-bb2e-efb7b5981ae9.jpeg">
-=======
-  <src="resources/img/turtlebot_resized.png" 
-  title="Turtlebot 2">
-  <img width="750" alt="mapping1" src="resources/img/turtlebot_resized.png">
->>>>>>> Stashed changes
 </p>
 
 
@@ -26,4 +20,4 @@ roslaunch turtlebot_teleop keyboard_teleop.launch
 
 ------------------------
 ## Implementation
-[![Implementation](https://i9.ytimg.com/vi_webp/9U_yMXyyd2g/mq2.webp?sqp=COizw5sG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihJMA8=&rs=AOn4CLBaLGnsvRqWzE1pfKnx2s4fHI89-g)](https://youtu.be/9U_yMXyyd2g)
+![Video](https://youtu.be/9U_yMXyyd2g)
