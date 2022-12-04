@@ -3,7 +3,7 @@
   <img width="350" src="https://user-images.githubusercontent.com/44544565/201526868-b8ce8391-5ef5-4441-a118-1c8054eb4c65.jpg" title="Turtlebot 2">
 </p>
 
-## [Experimentation video]
+## Experimentation video
 <div align="center">
   <a href="resources/img/turtlebot2_specs.png"> <img src="" alt="Experimentation video"></a>
 </div>
