@@ -7,7 +7,7 @@ Astra is a powerful and reliable stand-alone 3D camera featuring Orbbec's propri
 
 ## Drivers Installation
 
-This package supports ROS Kinetic and Melodic.\
+This package supports ROS Kinetic and Melodic.
 
 ### Install ROS
 refer to [ROS wiki][]
@@ -18,19 +18,19 @@ sudo apt install ros-**-rgbd-launch ros-**-libuvc ros-*-libuvc-camera ros-*-libu
 ```
 ** - defines ROS distribution
 
-### Create a ROS Workspace(if you don't have one)\
+### Create a ROS Workspace(if you don't have one)
 ```
 mkdir -p /catkin_ws/src\
 ```
-### Pull the repository into your ROS workspace\
+### Pull the repository into your ROS workspace
 ```
-git clone https://github.com/orbbec/ros_astra_camera\
+git clone https://github.com/orbbec/ros_astra_camera
 ```
-### Create astra udev ruleroscd astra_camera\
+### Create astra udev ruleroscd astra_camera
 ```
-./scripts/create_udev_rules\
+./scripts/create_udev_rules
 ```
-Go to catkin workspace and compile astra_camera/catkin_ws\
+Go to catkin workspace and compile astra_camera/catkin_ws
 ```
-catkin_make --pkg astra_camera\
+catkin_make --pkg astra_camera
 ```
