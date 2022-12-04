@@ -57,8 +57,8 @@
 
 
 <p align="center">
-  <img width="1050" height="300" src="resources/img/turtlebot2_specs.png" title="Top, Side and Front view">
-  <h3 align="center">Dimensions of Turtlebot 2 in Top, Side and Front views</h3>
+  <img width="1050" src="resources/img/turtlebot2_specs.png" title="Top, Side and Front view">
+  <h4 align="center">Dimensions of Turtlebot 2 in Top, Side and Front views</h4>
 </p>
 
 
