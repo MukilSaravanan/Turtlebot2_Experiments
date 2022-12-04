@@ -29,10 +29,10 @@
 ## Experiments
   - [Teleoperation](./Teleoperation)
   - [Environement mapping](./Mapping%20a%20environment)
-  - [Velocity scaling](./Velocity%20scaling/Readme.md)
-  - [Navigation](./Navigation/Readme.md)
-  - [Moving Forward](./Moving%20Forward/Readme.md)
-  - [Obstacle Avoidance](.Obstacle%20Avoidance/Readme.md)
+  - [Velocity scaling](./Velocity%20scaling#readme)
+  - [Navigation](./Navigation#readme)
+  - [Moving Forward](./Moving%20Forward#readme)
+  - [Obstacle Avoidance](.Obstacle%20Avoidance#readme)
   
 ## Overview
 - TurtleBot 2 has been the world’s most popular low cost, open source robot for education and research
