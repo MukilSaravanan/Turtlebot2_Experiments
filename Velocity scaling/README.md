@@ -5,7 +5,6 @@ Here the turtlebot 2 moves ahead with a constant velocity fed to it as an input.
 Graphs
 <p align="center">
 <img width="500" src="https://user-images.githubusercontent.com/44544565/205487707-396a08c3-90b0-4aa0-b440-abaf8bf7aa19.png">
-<h4 align="center">x-axis -> Time(s) vs. y-axis -> Veloity(m/s)</h4></p>
 
 
 This graph explains the linear velocity vs time. A noticeable period of time lag is observed before the robot reaches its constant linear velocity (cmd_vel_mux) here. The robot takes about 10 seconds before it attains its constant velocity of 0.2m/s. On ending the movement of the robot we see that a constant horizontal line at 0m/s is observed clearly.
