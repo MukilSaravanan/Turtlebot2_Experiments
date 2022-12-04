@@ -1,68 +1,29 @@
-# [Turtlebot 2](https://www.turtlebot.com/turtlebot2/)
-<p align="center">
-  <img width="350" src="https://user-images.githubusercontent.com/44544565/201526868-b8ce8391-5ef5-4441-a118-1c8054eb4c65.jpg" title="Turtlebot 2">
-</p>
-
-## [Experimentation video]
-<div align="center">
-  <a href="resources/img/turtlebot2_specs.png"> <img src="" alt="Experimentation video"></a>
-</div>
-
-## Team members
-
-
-## Table of Contents  
-[Overview](#overview)  
-[Specifications](#specifications) <br />
-[Features ](#features)<br />
-[Applications](#applications)
-
-## ROS Noetic Installation
- - [ROS wiki](http://wiki.ros.org/noetic/Installation/Ubuntu)
- - [Testing ROS installation](./Testing%20ROS%installation)
-
-## Experiments
-  - [Teleoperation](./Teleoperation)
-  - [Environement mapping](./Mapping%20a%20environment)
-  - [Velocity scaling](./Velocity%20scaling)
-  
-## Overview
-- TurtleBot 2 has been the world’s most popular low cost, open source robot for education and research
-- This second generation personal robot is equipped with a powerful Kobuki robot base, a dual-core netbook, Orbbec Astra Pro Sensor and a gyroscope. 
-- All components have been seamlessly integrated to deliver an out-of-the-box development platform.
-- Despite being out of factory production, TurtleBot 2 is one of the popular choices of experimentation for developers, enthusiasts, hobbyists exploring robotics.
-
-## Specifications
-
-|  Size  |  Weight  |
-|  ---------- |  -------------  |
-|  Dimensions  |  354x354x420 mm  |
-|  Weight  |  6.3 kg  |
-|  Max Payload  |  5 kg  |
-
-
-|  Speed  |  Performance  |
-|  ---------  |  ----------  |
-|  Max Speed  |  0.65 m/s  |
-|  Obstacle Clearance  |  15 mm |
-|  Drivers and APIs  |  ROS  |
-
+# Teleoperation
+- Teleoperation allows you to manually control TurtleBot. Keyboard and joystick are the two primary ways to do this. Before we experiment with these two methods, we need to set up TurtleBot to receive our commands.
+- Make sure TurtleBot’s Kobuki base is turned on (on/off switch is on the side).
 
 <p align="center">
-  <img width="1050" height="300" src="resources/img/turtlebot2_specs.png" title="Top, Side and Front view">
+<<<<<<< Updated upstream
+<img width ="450" alt="screenshot" src="https://user-images.githubusercontent.com/44544565/201526105-3ec7328c-13ba-4760-bb2e-efb7b5981ae9.jpeg">
+=======
+  <src="resources/img/turtlebot_resized.png" 
+  title="Turtlebot 2">
+  <img width="750" alt="mapping1" src="resources/img/turtlebot_resized.png">
+>>>>>>> Stashed changes
 </p>
 
 
-## Features
+- The Kobuki base status light will turn green if you have sufficient battery power.
+<p align="center">
+<img width ="450" alt="screenshot1" src="https://user-images.githubusercontent.com/44544565/201526522-5030b9e2-36bd-430e-8337-7d6602c49a0a.JPG">
+</p>
 
-> ### Low Cost
-Turtlebot2 was built for the cost-conscious needs of education and early-stage development. It uses off-the-shelf consumer electronics like the Orbbec Astra Pro sensor, a standard netbook and a robot base built from a repurposed robot vacuum cleaner to keep costs low. Turtlebot2 is the most affordable advanced ROS robot on the market.
- 
-> ### Built for ROS
-Turtlebot was designed in collaboration with the original makers of ROS, Willow Garage. Since then, ROS has quickly become the go-to software platform for roboticists around the world. Not only will the TurtleBot seamlessly integrate with your existing ROS-driven robots, it also offers an affordable platform to get started learning with ROS.
- 
-> ### Rolling Start
-ROS comes pre-installed and configured on the netbook. Turtlebot comes fully assembled, integrated and tested. It is ready for basic operation right out of the box. Power it on and enter commands. If this is your first time using ROS, Turtlebot is the best place to start.
+- On starting the turtlebot 2 a chime would be heard. This indicates that the Kobuki base of the turtlebot2 is booting up. Once booting is completed , Open another terminal tab and run:
 
-### Applications
-The TurtleBots are mainly used in AAL (Ambient Assisted Living), as a domestic robot able to perform assistance tasks, in research of navigation, localization and mapping and as an educational tool. Less actively, the robot is also used in multi-robot systems, mobile manipulation and tele-operation.
+```
+roslaunch turtlebot_teleop keyboard_teleop.launch
+```
+
+------------------------
+## Implementation
+[![Implementation](https://i9.ytimg.com/vi_webp/9U_yMXyyd2g/mq2.webp?sqp=COizw5sG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUihJMA8=&rs=AOn4CLBaLGnsvRqWzE1pfKnx2s4fHI89-g)](https://youtu.be/9U_yMXyyd2g)
