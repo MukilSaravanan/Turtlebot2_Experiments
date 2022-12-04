@@ -20,11 +20,18 @@
 ## ROS Noetic Installation
  - [ROS wiki](http://wiki.ros.org/noetic/Installation/Ubuntu)
  - [Testing ROS installation](./testing%20ROS%installation)
+ 
+## Astra Installation
+ - [Astra Installation](./Astra%20installation/Readme.md)
+ - [Testing ROS installation](.Testing%20ROS%20installation)
 
 ## Experiments
   - [Teleoperation](./Teleoperation)
   - [Environement mapping](./Mapping%20a%20environment)
-  - [Velocity scaling](./Velocity%20scaling)
+  - [Velocity scaling](./Velocity%20scaling/Readme.md)
+  - [Navigation](./Navigation/Readme.md)
+  - [Moving Forward](./Moving%20Forward/Readme.md)
+  - [Obstacle Avoidance](.Obstacle%20Avoidance/Readme.md)
   
 ## Overview
 - TurtleBot 2 has been the world’s most popular low cost, open source robot for education and research
