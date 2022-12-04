@@ -10,9 +10,7 @@
 </div>
 
 ## Team members
-- [Mukil Saravanan](https://in.linkedin.com/in/mukil-saravanan-18800285)
-- [Darren Alton D'Souza](https://in.linkedin.com/in/darren-d-souza-189b251a4)
-- [Prawin Sankar](https://in.linkedin.com/in/prawin-sankarta)
+[Mukil Saravanan](https://in.linkedin.com/in/mukil-saravanan-18800285), [Darren Alton D'Souza](https://in.linkedin.com/in/darren-d-souza-189b251a4), [Prawin Sankar](https://in.linkedin.com/in/prawin-sankarta)
 
 ## Table of Contents  
 [Overview](#overview)  
