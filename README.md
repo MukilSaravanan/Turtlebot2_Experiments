@@ -22,7 +22,7 @@
 
 ## Experiments
   - [Teleoperation](./Teleoperation)
-  - [Environement mapping](./Environment%20mapping)
+  - [Environement mapping](./Mapping%20a%20environment)
   - [Velocity scaling](./Velocity%20scaling)
   
 ## Overview
