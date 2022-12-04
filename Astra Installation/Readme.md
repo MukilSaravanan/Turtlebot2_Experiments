@@ -18,9 +18,11 @@ sudo apt install ros-**-rgbd-launch ros-**-libuvc ros-*-libuvc-camera ros-*-libu
 ```
 ** - defines ROS distribution
 
-### Create a ROS Workspace(if you don't have one)
+### Create a ROS Workspace
+<p>if not created earlier</p>
+  
 ```
-mkdir -p /catkin_ws/src\
+mkdir -p /catkin_ws/src
 ```
 ### Pull the repository into your ROS workspace
 ```
