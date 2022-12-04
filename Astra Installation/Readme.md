@@ -2,6 +2,9 @@
 
 Astra is a powerful and reliable stand-alone 3D camera featuring Orbbec's proprietary 3D microchip and VGA color. It has been developed to be highly compatible with existing OpenNI applications. Astra has a range of 0.4 to 8 meters. In addition to its cliff sensors and bumpers, Astra is one of the ways TurtleBot _sees_ its environment.
 
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/44544565/205486652-a231efbc-cf9e-468b-9248-e0d3b9ddf388.jpeg" title="Orbnec Astra camera module"</p>
+
 ## Drivers Installation
 
 This package supports ROS Kinetic and Melodic.\
