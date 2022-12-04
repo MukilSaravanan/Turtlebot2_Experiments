@@ -1,6 +1,7 @@
 # [Turtlebot 2](https://www.turtlebot.com/turtlebot2/)
 <p align="center">
   <img width="350" src="https://user-images.githubusercontent.com/44544565/201526868-b8ce8391-5ef5-4441-a118-1c8054eb4c65.jpg" title="Turtlebot 2">
+  <h3 align="center">Turtlebot 2</h3>
 </p>
 
 ## Experimentation video
@@ -57,6 +58,7 @@
 
 <p align="center">
   <img width="1050" height="300" src="resources/img/turtlebot2_specs.png" title="Top, Side and Front view">
+  <h3 align="center">Dimensions of Turtlebot 2 in Top, Side and Front views</h3>
 </p>
 
 
