@@ -26,3 +26,16 @@ To get TurtleBot to navigate autonomously across the map, click on the 2D Nav Go
 
 ![Screenshot from 2022-12-04 23-05-25](https://user-images.githubusercontent.com/44544565/205489857-34b92296-cd54-4dad-a263-0ecd7ce7c2b8.png)
 
+## Graphical Representation
+
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/44544565/205494869-7b33c090-4af5-462d-8129-80406a178353.PNG"></p>
+<h3 align="center">Angular vel. vs. Time</h3> 
+
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/44544565/205494872-019316d9-02e5-4258-be11-f93798e7af7a.PNG"></p>
+<h3 align="center">Linear vel. vs. Time</h3> 
+
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/44544565/205494875-9bc37076-dfb1-406d-aa84-2386d820b6ce.PNG"></p>
+<h3 align="center">X - Y position</h3> 
+
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/44544565/205494878-aa08cc62-cbf1-4936-9807-19ef614d1af0.PNG"></p>
+<h3 align="center">Yaw vs. Time</h3> 
