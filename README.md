@@ -32,7 +32,7 @@
   - [Environement mapping](./Mapping%20a%20environment)
   - [Moving Forward](./Moving%20Forward)
   - [Navigation](./Navigation#readme)
-  - [Obstacle Avoidance](.Obstacle%20Avoidance#readme)
+  - [Obstacle Avoidance](./Obstacle%20Avoidance)
   
 ## Overview
 - TurtleBot 2 has been the world’s most popular low cost, open source robot for education and research
