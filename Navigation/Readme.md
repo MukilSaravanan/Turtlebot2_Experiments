@@ -23,12 +23,3 @@ Click the 2DPose Nav button on the top toolbar of rviz and then click on the loc
 To get TurtleBot to navigate autonomously across the map, click on the 2D Nav Goal button and click on the map location where you want TurtleBot to go and drag the green arrow in the direction TurtleBot should be facing when he reaches that location.
 ![Screenshot from 2022-12-04 23-05-25](https://user-images.githubusercontent.com/44544565/205489656-8804a1a0-044f-4d10-b4a0-2699bb5dea18.png)
 
-
-In the first terminal window, type the command:
-```
-$ roslaunch turtlebot_gazebo turtlebot_world.launch
-```
-Open another terminal window, check the initial pose of TurtleBot:
-```
-$ rostopic echo /odom/pose/pose -n1
-```
