@@ -21,12 +21,10 @@
  - [Page]()
 
 ## Experiments
-  - [Teach and Playback](./Teach%20and%20Playback)
-  - [Write and Draw](./Write%20and%20Draw)
-  - [Blockly Program](./Blockly%20Program)
-  - [Pick and Place – Suction Gripper](./Pick%20and%20Place%20–%20Suction%20Gripper)
-  - [Pick and Place – Finger Gripper](./Pick%20and%20Place%20–%20Finger%20Gripper)
-
+  - [Teleoperation](./Teleoperation)
+  - [Environement mapping](./Environment%20mapping)
+  - [Velocity scaling](./Velocity%20scaling)
+  
 ## Overview
 - TurtleBot 2 has been the world’s most popular low cost, open source robot for education and research
 - This second generation personal robot is equipped with a powerful Kobuki robot base, a dual-core netbook, Orbbec Astra Pro Sensor and a gyroscope. 
