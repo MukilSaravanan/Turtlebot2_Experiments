@@ -10,8 +10,9 @@ Astra is a powerful and reliable stand-alone 3D camera featuring Orbbec's propri
 This package supports ROS Kinetic and Melodic.
 
 ### Install ROS
-refer to [ROS wiki][]
-Install dependencies
+refer to [ROS wiki](http://wiki.ros.org/melodic/Installation/Ubuntu)
+
+## Install dependencies
 
 ```
 sudo apt install ros-**-rgbd-launch ros-**-libuvc ros-*-libuvc-camera ros-*-libuvc-ros\
@@ -36,3 +37,10 @@ Go to catkin workspace and compile astra_camera/catkin_ws
 ```
 catkin_make --pkg astra_camera
 ```
+## Astro Installation Checks
+
+https://user-images.githubusercontent.com/44544565/205493356-19653c0c-5e16-43c7-bdbb-1ae36b90f94a.mp4
+
+
+
+
