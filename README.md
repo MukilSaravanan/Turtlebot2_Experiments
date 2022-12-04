@@ -30,7 +30,7 @@
   - [Teleoperation](./Teleoperation)
   - [Velocity scaling](./Velocity%20scaling#readme)
   - [Environement mapping](./Mapping%20a%20environment)
-  - [Moving Forward](./Moving%20Forward#readme)
+  - [Moving Forward](./Velocity%20scaling#readme)
   - [Navigation](./Navigation#readme)
   - [Obstacle Avoidance](.Obstacle%20Avoidance#readme)
   
