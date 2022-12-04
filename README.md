@@ -1,9 +1,10 @@
 # [Turtlebot 2](https://www.turtlebot.com/turtlebot2/)
 <p align="center">
   <img width="350" src="https://user-images.githubusercontent.com/44544565/201526868-b8ce8391-5ef5-4441-a118-1c8054eb4c65.jpg" title="Turtlebot 2">
+  <h3 align="center">Turtlebot 2</h3>
 </p>
 
-## [Experimentation video]
+## Experimentation video
 <div align="center">
   <a href="resources/img/turtlebot2_specs.png"> <img src="" alt="Experimentation video"></a>
 </div>
@@ -19,12 +20,19 @@
 
 ## ROS Noetic Installation
  - [ROS wiki](http://wiki.ros.org/noetic/Installation/Ubuntu)
- - [Testing ROS installation](./testing%20ROS%installation)
+ - [Testing ROS installation](./Testing%20ROS%20installation)
+ 
+## Astra Installation
+ - [Astra Installation](./Astra%20Installation/Readme.md)
+
 
 ## Experiments
   - [Teleoperation](./Teleoperation)
   - [Environement mapping](./Mapping%20a%20environment)
-  - [Velocity scaling](./Velocity%20scaling)
+  - [Velocity scaling](./Velocity%20scaling#readme)
+  - [Navigation](./Navigation#readme)
+  - [Moving Forward](./Moving%20Forward#readme)
+  - [Obstacle Avoidance](.Obstacle%20Avoidance#readme)
   
 ## Overview
 - TurtleBot 2 has been the world’s most popular low cost, open source robot for education and research
@@ -49,7 +57,8 @@
 
 
 <p align="center">
-  <img width="1050" height="300" src="resources/img/turtlebot2_specs.png" title="Top, Side and Front view">
+  <img width="1050" src="resources/img/turtlebot2_specs.png" title="Top, Side and Front view">
+  <h4 align="center">Dimensions of Turtlebot 2 in Top, Side and Front views</h4>
 </p>
 
 
