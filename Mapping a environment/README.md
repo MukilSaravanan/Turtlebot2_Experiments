@@ -37,10 +37,19 @@ roslaunch turtlebot_teleop keyboard_teleop.launch
 ### 8. Drive the TurtleBot around.
 NOTE: The terminal with teleop launching has to be active all the time otherwise you won’t be able to operate the TurtleBot.
 
+<<<<<<< Updated upstream
 <p align="center">
 <img width="750" alt="mapping1" src="https://user-images.githubusercontent.com/44544565/201525126-76d40dc1-cdc7-4d6e-9f57-a8943de7d14c.png">
 </p>
 
+=======
+<p align ="center">
+  <img width="600" height="400" src="resources/mapping_env/mapping1.png">
+</p>
+
+![Resource](resources/img/turtlebot_resized.png)
+
+>>>>>>> Stashed changes
 ### 9. Save a map when the picture is good enough.
 
 ```
@@ -78,3 +87,7 @@ roslaunch turtlebot_rviz_launchers view_navigation.launch
 -------------
 ## Implementation
 [![Implementation](https://i9.ytimg.com/vi_webp/Z2DBJi2g5F4/mq1.webp?sqp=CJCvw5sG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFQgZShiMA8=&rs=AOn4CLD9oYh0rdEixRnDkWPinEnblsRZSw)](https://youtu.be/Z2DBJi2g5F4)
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes

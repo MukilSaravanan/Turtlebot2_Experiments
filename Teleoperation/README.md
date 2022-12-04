@@ -3,8 +3,15 @@
 - Make sure TurtleBot’s Kobuki base is turned on (on/off switch is on the side).
 
 <p align="center">
+<<<<<<< Updated upstream
 <img width ="450" alt="screenshot" src="https://user-images.githubusercontent.com/44544565/201526105-3ec7328c-13ba-4760-bb2e-efb7b5981ae9.jpeg">
+=======
+  <src="resources/img/turtlebot_resized.png" 
+  title="Turtlebot 2">
+  <img width="750" alt="mapping1" src="resources/img/turtlebot_resized.png">
+>>>>>>> Stashed changes
 </p>
+
 
 - The Kobuki base status light will turn green if you have sufficient battery power.
 <p align="center">
