@@ -19,7 +19,7 @@
 
 ## ROS Noetic Installation
  - [ROS wiki](http://wiki.ros.org/noetic/Installation/Ubuntu)
- - [Testing ROS installation](./testing%20ROS%installation)
+ - [Testing ROS installation](./Testing%20ROS%installation)
 
 ## Experiments
   - [Teleoperation](./Teleoperation)
