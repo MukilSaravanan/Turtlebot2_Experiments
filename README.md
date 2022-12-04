@@ -23,7 +23,7 @@
  - [Testing ROS installation](./testing%20ROS%installation)
  
 ## Astra Installation
- - [Astra Installation](./Astra%20installation/Readme.md)
+ - [Astra Installation](./Astra%20Installation/Readme.md)
  - [Testing ROS installation](.Testing%20ROS%20installation)
 
 ## Experiments
