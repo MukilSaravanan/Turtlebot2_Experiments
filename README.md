@@ -20,11 +20,11 @@
 
 ## ROS Noetic Installation
  - [ROS wiki](http://wiki.ros.org/noetic/Installation/Ubuntu)
- - [Testing ROS installation](./testing%20ROS%installation)
+ - [Testing ROS installation](./Testing%20ROS%20installation)
  
 ## Astra Installation
  - [Astra Installation](./Astra%20Installation/Readme.md)
- - [Testing ROS installation](.Testing%20ROS%20installation)
+
 
 ## Experiments
   - [Teleoperation](./Teleoperation)
