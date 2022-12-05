@@ -82,7 +82,7 @@ roslaunch turtlebot_rviz_launchers view_navigation.launch
 
 
 <div align="center">
-  <a href=""> <img width="550" src="https://user-images.githubusercontent.com/44544565/205531964-f71fe9b0-38a2-4965-8e3b-c210e5356660.png" alt="Experimentation video"></a>
+  <a href="https://youtu.be/6yCelD5oeeY"> <img width="550" src="https://user-images.githubusercontent.com/44544565/205531964-f71fe9b0-38a2-4965-8e3b-c210e5356660.png" alt="Experimentation video"></a>
 </div>
 
 
