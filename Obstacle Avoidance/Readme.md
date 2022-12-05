@@ -38,5 +38,6 @@ The obstacle avoidance is executed using a structure of path finding, local plan
 -----------------------------------------------------------------------
 
 <div align="center">
-  <a href="https://youtu.be/Um8uGsarSFU"> <img width="550" src="https://user-images.githubusercontent.com/44544565/205532660-558a0bf2-15d3-4083-82d2-3287eeb536eb.png" alt="Experimentation video"></a>
+  <a href="https://youtu.be/Um8uGsarSFU"> <img width="550" src="https://user-images.githubusercontent.com/44544565/205683798-e1d07529-ce3d-4667-a78f-7b4c1abba206.png" alt="Experimentation video"></a>
 </div>
+
