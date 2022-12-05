@@ -4,10 +4,11 @@
   <h3 align="center">Turtlebot 2</h3>
 </p>
 
-## Experimentation video
+## [Experimentation video](https://www.youtube.com/watch?v=JDKy4nVg88M)
 <div align="center">
-  <a href="resources/img/turtlebot2_specs.png"> <img src="" alt="Experimentation video"></a>
+  <a href="https://www.youtube.com/watch?v=JDKy4nVg88M"> <img width="550" src="https://user-images.githubusercontent.com/44544565/205528988-04be1392-16d2-4ec9-a197-adf5e7c5f671.png" alt="Experimentation video"></a>
 </div>
+
 
 ## Team members
 [Mukil Saravanan](https://in.linkedin.com/in/mukil-saravanan-18800285), [Darren Alton D'Souza](https://in.linkedin.com/in/darren-d-souza-189b251a4), [Prawin Sankar](https://in.linkedin.com/in/prawin-sankarta)
