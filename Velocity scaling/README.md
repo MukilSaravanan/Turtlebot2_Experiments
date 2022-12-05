@@ -20,6 +20,6 @@ In velocity scaling the Turtlebot2 is commanded to move forward with a dynamical
 -----------------------------------------------------------------------
 
 <div align="center">
-  <a href=""> <img width="550" src="https://user-images.githubusercontent.com/44544565/205531670-9c32306f-b722-4d40-934f-4266f0fc3788.png" alt="Experimentation video"></a>
+  <a href="https://youtu.be/oQA0BxQDHi0"> <img width="550" src="https://user-images.githubusercontent.com/44544565/205531670-9c32306f-b722-4d40-934f-4266f0fc3788.png" alt="Experimentation video"></a>
 </div>
 
