@@ -45,5 +45,5 @@ To get TurtleBot to navigate autonomously across the map, click on the 2D Nav Go
 -----------------------------------------------------------------------
 
 <div align="center">
-  <a href=""> <img width="550" src="https://user-images.githubusercontent.com/44544565/205532660-558a0bf2-15d3-4083-82d2-3287eeb536eb.png" alt="Experimentation video"></a>
+  <a href="https://youtu.be/Dg1XQ_deltI"> <img width="550" src="https://user-images.githubusercontent.com/44544565/205532660-558a0bf2-15d3-4083-82d2-3287eeb536eb.png" alt="Experimentation video"></a>
 </div>
