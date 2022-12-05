@@ -19,5 +19,8 @@ roslaunch turtlebot_teleop keyboard_teleop.launch
 ```
 
 ------------------------
-## Implementation
-![Video](https://youtu.be/9U_yMXyyd2g)
+
+## [Experimentation video](https://www.youtube.com/watch?v=JDKy4nVg88M)
+<div align="center">
+  <a href="https://youtu.be/9U_yMXyyd2g"> <img width="550" src="https://user-images.githubusercontent.com/44544565/205530102-502293ac-488a-4029-80f5-7e2d1320b591.png" alt="Experimentation video"></a>
+</div>
