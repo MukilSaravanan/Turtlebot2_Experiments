@@ -25,6 +25,6 @@ Figure above indicates the change of yaw rate over time. This is a crucial facto
 -----------------------------------------------------------------------
 
 <div align="center">
-  <a href=""> <img width="550" src="https://user-images.githubusercontent.com/44544565/205532435-c13a20d1-0f8c-4af3-a369-5089b18bb3bd.png" alt="Experimentation video"></a>
+  <a href="https://youtu.be/qO01RvUsOIg"> <img width="550" src="https://user-images.githubusercontent.com/44544565/205532435-c13a20d1-0f8c-4af3-a369-5089b18bb3bd.png" alt="Experimentation video"></a>
 </div>
 
